@@ -162,6 +162,7 @@
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnClear;
+        
     }
 }
 
